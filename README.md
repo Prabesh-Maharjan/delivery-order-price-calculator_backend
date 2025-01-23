@@ -11,8 +11,7 @@ Ensure the following are installed on system:
 
 ## Installation
 
-1. Download the ZIP file of the project from the provided Dropbox link.
-2. Extract the ZIP file to a directory on your local machine.
+1. Clone the repository.
 3. Navigate to the project directory.
 4. Build the project using the Gradle wrapper:
    ```bash
@@ -82,4 +81,4 @@ Instead of just returning data as specified in assignmnet, it is returned alongs
 
 ## License
 
-This project is not licensed as it is just assignment.
+This project is not licensed as it is small practise.
